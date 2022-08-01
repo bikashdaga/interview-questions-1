@@ -4,6 +4,7 @@
 - [What is structure padding ? How to avoid it ?](http://www.geeksforgeeks.org/structure-member-alignment-padding-and-data-packing/)
 - [What is the size of void ?](http://stackoverflow.com/questions/3350599/sizeofvoid-equals-1-in-c)
 - [What is Data alignment ?](https://embeddeddreams.quora.com/Concept-What-is-Data-alignment)
+- [What is Difference Between Compiler and Interpreter](https://www.scaler.com/topics/c/difference-between-compiler-and-interpreter/)
 
 
 ## OS
